@@ -1,4 +1,4 @@
-function demo(input) {
+function solve3(input) {
     let deposit = Number(input[0]); //deposit (money)
     let period = Number(input[1]); //periodMonths
     let percent = Number(input[2]); //yearlyPercent
